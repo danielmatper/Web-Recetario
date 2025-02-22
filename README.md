@@ -1,6 +1,6 @@
 # Recetario Web
 
-Este es un proyecto colaborativo en desarrollo que presenta un recetario web con diferentes recetas. Permite a los usuarios consultar ingredientes y pasos de preparación de platos como Tortilla de Patatas y Ensalada César.
+Este es un proyecto colaborativo en desarrollo que presenta un recetario web con diferentes recetas. Permite a los usuarios consultar ingredientes y pasos de preparación de platos como Tortilla de Patatas y Ensalada César. Es fácilmente ampliable gracias a la estructura de contenedores donde insertar las recetas.
 
 ## Estructura del Proyecto
 
@@ -39,6 +39,7 @@ Web Recetario/
 ## Estado del Proyecto
 
 El proyecto está en desarrollo y cuenta con tres colaboradores activos.
+De momento, contamos con dos recetas sencillas, aunque se podrían incorporar más. También se ha hecho ya la hoja de estilos.
 
 ## Colaboradores
 
