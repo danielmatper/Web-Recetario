@@ -97,3 +97,19 @@ footer a:hover {
     color: #587a4c; 
     transition: color 0.3s ease;  
 }
+
+button {
+    padding: 10px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    font-style: oblique;
+    text-decoration: underline; /* Subraya el texto en el estado normal */
+}
+
+button:hover {
+    background-color: #005f73;
+    text-decoration: none; /* Quita el subrayado al hacer hover */
+}
